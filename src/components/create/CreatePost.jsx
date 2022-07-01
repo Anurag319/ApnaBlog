@@ -86,7 +86,7 @@ const CreatePost = () => {
         }
     }
     return (
-        <Container>
+        <Container> 
             <Image src={url} alt="banner" />
 
             <StyledFormControl>
